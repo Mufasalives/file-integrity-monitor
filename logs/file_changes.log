@@ -1,0 +1,10 @@
+Sat Sep 26 22:26:03 2026: C:\Users\kevin\Downloads\file-integrity monitor\watched_file.txt has changed.
+Sat Sep 26 22:26:35 2026: C:\Users\kevin\Downloads\file-integrity monitor\watched_file.txt has changed.
+Sat Sep 26 22:28:53 2026: C:\Users\kevin\Downloads\file-integrity monitor\watched_file.txt has changed.
+Sat Sep 26 22:40:23 2026: C:\Users\kevin\Downloads\file-integrity monitor\watched_file.txt has changed.
+Sat Sep 26 22:41:09 2026: C:\Users\kevin\Downloads\file-integrity monitor\watched_file.txt has changed.
+Sat Sep 26 22:41:34 2026: C:\Users\kevin\Downloads\file-integrity monitor\watched_file.txt has changed.
+Sat Sep 26 22:42:14 2026: C:\Users\kevin\Downloads\file-integrity monitor\watched_file.txt has changed.
+{"timestamp": "2026-09-27T04:14:04Z", "event_type": "FILE_MODIFIED", "file_path": "C:\\Users\\kevin\\Downloads\\file-integrity monitor\\.watched_file.txt", "previous_hash": "185d52f9a4b51efe209a2d77d5f9d602af1147b4f89a5b5c1382f0959c207b93", "current_hash": "1fb63133329cc62c6711499593b66db999e86733867d36986a891c89bd723ceb", "hash_algorithm": "SHA-256"}
+{"timestamp": "2026-09-27T04:27:42Z", "event_type": "FILE_MODIFIED", "file_path": "C:\\Users\\kevin\\Downloads\\file-integrity monitor\\.watched_file.txt", "previous_hash": "1fb63133329cc62c6711499593b66db999e86733867d36986a891c89bd723ceb", "current_hash": "4bc1111c3620d0c1c85eba3c8e34496d0610e092e01cae5260996e2a84a8058e", "hash_algorithm": "SHA-256"}
+{"timestamp": "2026-09-27T04:29:02Z", "event_type": "FILE_MODIFIED", "file_path": "C:\\Users\\kevin\\Downloads\\file-integrity monitor\\.watched_file.txt", "previous_hash": "4bc1111c3620d0c1c85eba3c8e34496d0610e092e01cae5260996e2a84a8058e", "current_hash": "f3eec06749a13107faac51bb7cd598c85d2d5e5610a237fb2f3a3f70638f8643", "hash_algorithm": "SHA-256"}
