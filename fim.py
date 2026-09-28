@@ -7,7 +7,7 @@ import requests
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 # Replace with your actual Discord or Slack webhook URL
-WEBHOOK_URL = "YOUR_DISCORD_OR_SLACK_WEBHOOK_URL"
+WEBHOOK_URL = os.getenv("FIM_DISCORD_WEBHOOK_URL", "")
 
 def calculate_file_hash(file_path):
     """Calculate and return the SHA-256 hash of the file."""

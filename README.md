@@ -17,3 +17,9 @@ file-integrity-monitor/
 ├── README.md             # Documentation
 └── logs/
     └── file_changes.log  # Structured JSON audit log
+```
+## Demo
+
+A change to the watched file triggers a Discord alert with the file path and hash values.
+
+![Discord file integrity alerts](docs/fim-alerts.png)
